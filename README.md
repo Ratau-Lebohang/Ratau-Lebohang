@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 👋 Hello, I'm Lebo
+#  Hi there 👋, I'm Lebo
 
 I'm a **Data Analyst** and **Business Intelligence Enthusiast** who thrives on turning complex data into powerful insights.  
 I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data Visualization**, and **Storytelling** to drive informed decision-making.
