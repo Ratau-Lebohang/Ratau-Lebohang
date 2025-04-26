@@ -33,7 +33,7 @@ I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data V
 
 ## 📁 Featured Projects
 
-🔗 *Explore my full portfolio here: [Portfolio Repository](https://github.com/yourusername/yourportfolio)*
+🔗 *Explore my full portfolio here: [Portfolio Repository]([https://github.com/yourusername/yourportfolio](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio))*
 
 
 
