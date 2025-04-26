@@ -20,6 +20,11 @@ I am Driven by curiosity, creativity, and continuous learning Passionate about t
 </p>
 
 ---
+## Certificates
+
+- **Google Data Analytics Certification** - [View Certificate](https://coursera.org/share/823b1543a47d3be09a2fe1f8f83628fb)
+- **Google Business Intelligence Certification** - [View Certificate](https://coursera.org/share/494a873ec8eb08aecc428b94edbdac66)
+---
 
 ##  Featured Projects
 
@@ -28,7 +33,7 @@ I am Driven by curiosity, creativity, and continuous learning Passionate about t
 
 ##  Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedinprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/lebohang-r-16067124b)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](rataulebohang8@gmail.com.com)
 
 
