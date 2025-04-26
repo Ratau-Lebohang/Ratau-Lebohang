@@ -1,20 +1,12 @@
 ## Hi there 👋
 
-# 👋 Hello, I'm Lebohang
-
+# 👋 Hello, I'm Lebo
 
 I'm a **Data Analyst** and **Business Intelligence Enthusiast** who thrives on turning complex data into powerful insights.  
 I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data Visualization**, and **Storytelling** to drive informed decision-making.
+I am Driven by curiosity, creativity, and continuous learning Passionate about transforming raw data into strategic insights and skilled in real-world analytics, reporting, and dashboard building. Outside of work, you'll find me conquering hiking trails like a true adventurer, and getting lost in books that keep my mind sharp and inspired! 
 
 ---
-
-## About Me
-
-- 📊 Passionate about transforming raw data into strategic insights and skilled in real-world analytics, reporting, and dashboard building
-- 🎯 Driven by curiosity, creativity, and continuous learning
-- 🎨 Outside of work, you'll find me conquering hiking trails like a true adventurer, and getting lost in books that keep my mind sharp and inspired! 
----
-
 ### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -38,7 +30,7 @@ I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data V
 ##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedinprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](rataulebohang8@gmail.com.com)
 
 
 #  Thank you for visiting my profile!
