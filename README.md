@@ -29,7 +29,7 @@ I am Driven by curiosity, creativity, and continuous learning Passionate about t
 
 ##  *Featured Projects*
 
-🔗 Explore my full portfolio here: [Portfolio Repository](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio) 
+- **Explore my full portfolio here** - [Portfolio Repository](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio) 
 ---
 
 
