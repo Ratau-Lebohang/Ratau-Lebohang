@@ -3,7 +3,15 @@
 
 I'm a **Data Analyst** and **Business Intelligence Enthusiast** who thrives on turning complex data into powerful insights.  
 I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data Visualization**, and **Storytelling** to drive informed decision-making.
-I am Driven by curiosity, creativity, and continuous learning Passionate about transforming raw data into strategic insights and skilled in real-world analytics, reporting, and dashboard building. Outside of work, you'll find me conquering hiking trails like a true adventurer, and getting lost in books that keep my mind sharp and inspired! 
+
+I am Driven by curiosity, creativity, and continuous learning Passionate about transforming raw data into strategic insights and skilled in real-world analytics, reporting, and dashboard building. 
+
+Outside of work, you'll find me conquering hiking trails like a true adventurer, and getting lost in books that keep my mind sharp and inspired! 
+
+---
+##  *Featured Projects*
+
+- **Explore my full portfolio here** - [Portfolio Repository](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio) 
 
 ---
 ## *Tech Stack*
@@ -27,10 +35,6 @@ I am Driven by curiosity, creativity, and continuous learning Passionate about t
 ---
 
 
-##  *Featured Projects*
-
-- **Explore my full portfolio here** - [Portfolio Repository](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio) 
----
 
 
 ##  Connect With Me
