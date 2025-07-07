@@ -1,14 +1,14 @@
 
 # 👋 Hi there!
 
-I’m **Lebohang** — a **Data Analyst** and **Business Intelligence Enthusiast** with a solid foundation in **Technical Support** and a deep passion for working with data.
+I’m **Lebohang**, a **Data Analyst** and **Business Intelligence Enthusiast** with a solid foundation in **Technical Support** and a deep passion for working with data.
 
 I thrive on transforming raw information into actionable insights through:
 
-- 🧹 **Data Cleaning**  
-- 📊 **Exploratory Data Analysis (EDA)**  
-- 📈 **Data Visualization**  
-- 🗣️ **Data Storytelling**  
+- **Data Cleaning**  
+- **Exploratory Data Analysis (EDA)**  
+- **Data Visualization**  
+- **Data Storytelling**  
 
 With a curious mind and a love for structured problem-solving, I enjoy diving into datasets to uncover trends, solve business problems, and build dashboards that support smarter decision-making.
 
