@@ -1,10 +1,19 @@
 
-#  Hi there 👋, I'm Lebo
+# 👋 Hi there!
 
-I'm a **Data Analyst** and **Business Intelligence Enthusiast** who thrives on turning complex data into powerful insights.  
-I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data Visualization**, and **Storytelling** to drive informed decision-making.
+I’m **Lebohang** — a **Data Analyst** and **Business Intelligence Enthusiast** with a solid foundation in **Technical Support** and a deep passion for working with data.
 
-I am Driven by curiosity, creativity, and continuous learning Passionate about transforming raw data into strategic insights and skilled in real-world analytics, reporting, and dashboard building. 
+I thrive on transforming raw information into actionable insights through:
+
+- 🧹 **Data Cleaning**  
+- 📊 **Exploratory Data Analysis (EDA)**  
+- 📈 **Data Visualization**  
+- 🗣️ **Data Storytelling**  
+
+With a curious mind and a love for structured problem-solving, I enjoy diving into datasets to uncover trends, solve business problems, and build dashboards that support smarter decision-making.
+
+I’m continuously learning, growing, and eager to contribute to innovative projects that combine **data analytics** and **technical problem-solving**.
+
 
 Outside of work, you'll find me conquering hiking trails like a true adventurer, and getting lost in books that keep my mind sharp and inspired! 
 
