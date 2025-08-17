@@ -37,11 +37,6 @@ Outside of work, you'll find me conquering hiking trails like a true adventurer,
 </p>
 
 ---
-## *Certificates*
-
-- **Google Data Analytics Certification** - [View Certificate](https://coursera.org/share/823b1543a47d3be09a2fe1f8f83628fb)
-- **Google Business Intelligence Certification** - [View Certificate](https://coursera.org/share/494a873ec8eb08aecc428b94edbdac66)
----
 
 
 
