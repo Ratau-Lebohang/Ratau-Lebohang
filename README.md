@@ -43,4 +43,28 @@ When I’m not wrangling data, you’ll probably find me hiking a new trail or l
 <div align="center">
 
 <!-- Most Used Languages -->
-<img src="
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratau-Lebohang&layout=compact&theme=github_dark" width="48%" />
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+
+<br />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ratau-Lebohang&theme=github-dark&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lebohang-r-16067124b)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rataulebohang8@gmail.com)
+
+---
+
+_Thanks for visiting! Let's connect and collaborate on something impactful._ 🚀
