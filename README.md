@@ -1,33 +1,33 @@
+# 👋 Hey there, I’m Lebohang!
 
-# 👋 Hi there!
+> Turning complex data into clear insights — one dataset at a time.  
+> Data analyst by profession, explorer by nature.
 
-I’m **Lebohang**, a **Data Analyst** and **Business Intelligence Enthusiast** with a solid foundation in **Technical Support** and a deep passion for working with data.
+![Party Parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
 
-I thrive on transforming raw information into actionable insights through:
+---
+
+I’m **Lebohang**, a **Data Analyst** and **Business Intelligence Enthusiast** with a knack for **Technical Support** and an insatiable curiosity for data.
+
+I love transforming raw numbers into stories that help businesses make smarter decisions. Whether it’s through:
 
 - **Data Cleaning**  
 - **Exploratory Data Analysis (EDA)**  
 - **Data Visualization**  
 - **Data Storytelling**  
 
-With a curious mind and a love for structured problem-solving, I enjoy diving into datasets to uncover trends, solve business problems, and build dashboards that support smarter decision-making.
+I enjoy diving deep into datasets, finding trends, and building dashboards that bring clarity.
 
-I’m continuously learning, growing, and eager to contribute to innovative projects that combine **data analytics** and **technical problem-solving**.
-
-
-Outside of work, you'll find me conquering hiking trails like a true adventurer, and getting lost in books that keep my mind sharp and inspired! 
+When I’m not wrangling data, you might find me on a hiking trail or lost in a book, constantly learning and growing.
 
 ---
-##  *Featured Projects*
 
-- **Explore my full portfolio here** - [Portfolio Repository](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio) 
+## 🔧 Tech Stack
 
----
-## *Tech Stack*
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -37,34 +37,40 @@ Outside of work, you'll find me conquering hiking trails like a true adventurer,
 </p>
 
 ---
-# Hi there 👋, I'm Lebohang Ratau
 
-## 📊 My GitHub Stats
+## 🚀 Featured Projects
+
+- Explore my full portfolio here - [Portfolio Repository](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratau-Lebohang&layout=compact&theme=github_dark" width="48%" />
 
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<!-- GitHub Streak Card -->
+<br />
+
+<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
 
-<br/>
-
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ratau-Lebohang&theme=github-dark&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
 
 </div>
 
+---
 
+## 📬 Connect with Me
 
-
-##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lebohang-r-16067124b)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lebohang-r-16067124b)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rataulebohang8@gmail.com)
 
+---
 
-  
-
-#  Thank you for visiting my profile!
+Thank you for stopping by — let’s build something awesome together! 🚀
