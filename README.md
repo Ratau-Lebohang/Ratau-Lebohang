@@ -7,7 +7,7 @@
 
 ---
 
-I’m **Lebohang**, a **Data Analyst** and **Business Intelligence Enthusiast** with a knack for **Technical Support** and an insatiable curiosity for data.
+I’m **Lebohang**, a **Data Analyst**  with a knack for  **Business Intelligence Enthusiast** and an insatiable curiosity for data.
 
 I love transforming raw numbers into stories that help businesses make smarter decisions. Whether it’s through:
 
@@ -35,12 +35,6 @@ When I’m not wrangling data, you might find me on a hiking trail or lost in a 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- Explore my full portfolio here - [Portfolio Repository](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio)
 
 ---
 
@@ -73,4 +67,3 @@ When I’m not wrangling data, you might find me on a hiking trail or lost in a 
 
 ---
 
-Thank you for stopping by — let’s build something awesome together! 🚀
