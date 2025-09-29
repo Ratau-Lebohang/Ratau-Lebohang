@@ -37,17 +37,25 @@ Outside of work, you'll find me conquering hiking trails like a true adventurer,
 </p>
 
 ---
+# Hi there 👋, I'm Lebohang Ratau
 
 ## 📊 My GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=github_dark" width="48%" />
-<img src="https://streak-stats.demolab.com?user=YourUsername&theme=github-dark" width="48%" />
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+
+<!-- GitHub Streak Card -->
+<img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
+
 <br/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=github-dark" width="95%" />
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ratau-Lebohang&theme=github-dark&hide_border=true" width="95%" />
 
 </div>
+
 
 
 
