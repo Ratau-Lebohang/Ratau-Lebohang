@@ -10,9 +10,7 @@
 
 ---
 
-### 🐱 Alternate Fun GIFs (swap in anytime)
-![Cat typing](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)  
-![Hacker Cat](https://media.giphy.com/media/1iTH1WIUjM0VATSw/giphy.gif)  
+
 ![Coding Cat](https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif)
 
 ---
