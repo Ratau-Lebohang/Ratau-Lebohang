@@ -6,12 +6,7 @@
 # Hi there, I'm Lebo 👋
 
 <!-- Default GIF (Professional + Playful) -->
-![Data Dashboard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWYycjl2cHdndHNvZnpuNnhob3Y0Y3lydnFjZWNhbHJ0bWd3Njh6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2IpQnJYp7h8nEI/giphy.gif)
 
----
-
-
-![Coding Cat](https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif)
 
 ---
 
