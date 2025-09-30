@@ -3,7 +3,17 @@
 > 📊 Data Analyst passionate about transforming raw data into actionable insights.  
 > 🚀 Always learning, always exploring.
 
-![Data Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN0cm5uM3k0eGtqYXZxZG1xbDZlY2xzMHRnZ2VsZzNmeWJ2ZWU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNAsjO55tPbgaor7ma/giphy.gif)
+# Hi there, I'm Lebo 👋
+
+<!-- Default GIF (Professional + Playful) -->
+![Data Dashboard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWYycjl2cHdndHNvZnpuNnhob3Y0Y3lydnFjZWNhbHJ0bWd3Njh6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2IpQnJYp7h8nEI/giphy.gif)
+
+---
+
+### 🐱 Alternate Fun GIFs (swap in anytime)
+![Cat typing](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)  
+![Hacker Cat](https://media.giphy.com/media/1iTH1WIUjM0VATSw/giphy.gif)  
+![Coding Cat](https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif)
 
 ---
 
