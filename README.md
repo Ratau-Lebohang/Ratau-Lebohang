@@ -1,28 +1,31 @@
 # 👋 Hey there, I’m Lebohang!
 
-> Turning complex data into clear insights — one dataset at a time.  
-> Data analyst by profession, explorer by nature.
+> 🧠 Turning complex data into clear insights — one dataset at a time.  
+> 🌍 Data analyst by profession, explorer by nature.
 
 ![Party Parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
 
 ---
 
-I’m **Lebohang**, a **Data Analyst** with a knack for **Business Intelligence** and an insatiable curiosity for data.
+I’m **Lebohang**, a **Data Analyst** with a passion for **Business Intelligence**, a sharp eye for detail, and an insatiable curiosity for all things data.
 
-I love transforming raw numbers into stories that help businesses make smarter decisions. Whether it’s through:
+I specialize in turning raw numbers into actionable insights and compelling stories that drive smart business decisions. Whether it's:
 
-- **Data Cleaning**  
-- **Exploratory Data Analysis (EDA)**  
-- **Data Visualization**  
-- **Data Storytelling**
+- 🧹 **Data Cleaning**  
+- 🔍 **Exploratory Data Analysis (EDA)**  
+- 📊 **Data Visualization**  
+- 📖 **Data Storytelling**
 
-I enjoy diving deep into datasets, finding trends, and building dashboards that bring clarity and value.
+...I love diving deep into data, spotting trends, and building dashboards that **clarify**, **illuminate**, and **guide**.
 
-When I’m not wrangling data, you’ll probably find me hiking a new trail or lost in a great book — always learning, always growing.
+When I’m not wrangling data, I’m likely:
+- 🥾 Hiking a new trail  
+- 📚 Lost in a good book  
+- 🤓 Learning something new  
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -60,11 +63,15 @@ When I’m not wrangling data, you’ll probably find me hiking a new trail or l
 
 ---
 
-## 📬 Connect with Me
+## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lebohang-r-16067124b)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rataulebohang8@gmail.com)
+<a href="https://linkedin.com/in/lebohang-r-16067124b" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rataulebohang8@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
-_Thanks for visiting! Let's connect and collaborate on something impactful._ 🚀
+_Thanks for stopping by! Let’s connect and build something impactful._ 🚀
