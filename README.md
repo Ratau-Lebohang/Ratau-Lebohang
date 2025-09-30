@@ -24,6 +24,10 @@ When I’m not wrangling data, you’ll probably find me:
 - 🤓 Learning something new  
 
 ---
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos)
 
 ## 🛠 Tech Stack
 
