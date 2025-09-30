@@ -1,26 +1,26 @@
 # 👋 Hey there, I’m Lebohang!
 
-> 🧠 Turning complex data into clear insights — one dataset at a time.  
-> 🌍 Data analyst by profession, explorer by nature.
+> 🧠 Transforming complex data into clear insights — one dataset at a time.  
+> 🌍 Data Analyst by profession, explorer by nature.
 
 ![Party Parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
 
 ---
 
-I’m **Lebohang**, a **Data Analyst** with a passion for **Business Intelligence**, a sharp eye for detail, and an insatiable curiosity for all things data.
+I’m **Lebohang**, a **Data Analyst** passionate about **Business Intelligence**, with a sharp eye for detail and an insatiable curiosity for all things data.  
 
-I specialize in turning raw numbers into actionable insights and compelling stories that drive smart business decisions. Whether it's:
+I specialize in turning raw numbers into actionable insights and compelling stories that help businesses make smarter decisions. My toolkit covers:  
 
 - 🧹 **Data Cleaning**  
 - 🔍 **Exploratory Data Analysis (EDA)**  
 - 📊 **Data Visualization**  
-- 📖 **Data Storytelling**
+- 📖 **Data Storytelling**  
 
-...I love diving deep into data, spotting trends, and building dashboards that **clarify**, **illuminate**, and **guide**.
+I thrive on spotting patterns, uncovering trends, and building dashboards that **clarify**, **illuminate**, and **guide**.
 
-When I’m not wrangling data, I’m likely:
+When I’m not wrangling data, you’ll probably find me:  
 - 🥾 Hiking a new trail  
-- 📚 Lost in a good book  
+- 📚 Lost in a great book  
 - 🤓 Learning something new  
 
 ---
@@ -41,14 +41,14 @@ When I’m not wrangling data, I’m likely:
 
 ---
 
-### 📈 Lebohang's GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<!-- Total Commits -->
+<!-- Commit Count -->
 <img alt="Commits" src="https://img.shields.io/badge/Commits-143-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
 
-<!-- Repositories -->
+<!-- Repository Count -->
 <img alt="Repositories" src="https://img.shields.io/badge/Repositories-12-blue?style=for-the-badge&logo=github&logoColor=white" />
 
 <!-- Stars -->
@@ -60,20 +60,16 @@ When I’m not wrangling data, I’m likely:
 <!-- Repos Contributed To -->
 <img alt="Repos Contributed" src="https://img.shields.io/badge/Contributed_To-3-purple?style=for-the-badge&logo=sourceforge&logoColor=white" />
 
-</div>
-
-
-
+---
 
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
-
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
 <a href="https://linkedin.com/in/lebohang-r-16067124b" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -84,4 +80,4 @@ When I’m not wrangling data, I’m likely:
 
 ---
 
-_Thanks for stopping by! Let’s connect and build something impactful._ 🚀
+✨ _Thanks for stopping by! Let’s connect and build something impactful._ 🚀
