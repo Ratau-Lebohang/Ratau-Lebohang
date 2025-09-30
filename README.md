@@ -48,8 +48,6 @@ When I’m not wrangling data, I’m likely:
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<br />
-
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
 
