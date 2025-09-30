@@ -46,7 +46,15 @@ When I’m not wrangling data, I’m likely:
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=github_dark&hide_border=true" width="48%" /> 
+### Lebohang's GitHub Stats
+
+- ⭐ Total Stars Earned: ![GitHub stars](https://img.shields.io/github/stars/Ratau-Lebohang?style=flat&color=yellow)
+- 📅 Total Commits (last year): ![GitHub commits](https://img.shields.io/badge/commits-143-brightgreen)
+- 🔀 Total PRs: ![GitHub PRs](https://img.shields.io/badge/pull_requests-0-lightgrey)
+- 🐞 Total Issues: ![GitHub issues](https://img.shields.io/badge/issues-0-lightgrey)
+- 🤝 Contributed to (last year): ![GitHub contributions](https://img.shields.io/badge/contributed_to-3-blue)
+
 
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
