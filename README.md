@@ -45,9 +45,6 @@ When I’m not wrangling data, I’m likely:
 
 <div align="center">
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratau-Lebohang&layout=compact&theme=github_dark" width="48%" />
-
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
@@ -57,7 +54,7 @@ When I’m not wrangling data, I’m likely:
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ratau-Lebohang&theme=github-dark&hide_border=true" width="95%" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Ratau-Lebohang&theme=github-dark&hide_border=true" width="95%" />
 
 </div>
 
