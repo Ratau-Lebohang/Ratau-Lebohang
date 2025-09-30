@@ -44,6 +44,8 @@ When I’m not wrangling data, you’ll probably find me:
 ## 📈 GitHub Stats
 
 <div align="center">
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
 <!-- Commit Count -->
 <img alt="Commits" src="https://img.shields.io/badge/Commits-143-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
