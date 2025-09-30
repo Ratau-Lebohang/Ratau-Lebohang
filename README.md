@@ -41,18 +41,27 @@ When I’m not wrangling data, I’m likely:
 
 ---
 
-## 📊 GitHub Stats
+### 📈 Lebohang's GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-### 📈 Lebohang's GitHub Stats
+<!-- Total Commits -->
+<img alt="Commits" src="https://img.shields.io/badge/Commits-143-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
 
-- 📅 **Total Commits (last year):** 143  
-- 📁 **Repositories:** 12  
-- ⭐ **Total Stars Earned:** 0  
-- 🔀 **Pull Requests:** 0  
-- 🤝 **Repos Contributed To:** 3  
+<!-- Repositories -->
+<img alt="Repositories" src="https://img.shields.io/badge/Repositories-12-blue?style=for-the-badge&logo=github&logoColor=white" />
+
+<!-- Stars -->
+<img alt="Stars" src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=starship&logoColor=white" />
+
+<!-- Pull Requests -->
+<img alt="Pull Requests" src="https://img.shields.io/badge/Pull_Requests-0-lightgrey?style=for-the-badge&logo=git-pull-request&logoColor=white" />
+
+<!-- Repos Contributed To -->
+<img alt="Repos Contributed" src="https://img.shields.io/badge/Contributed_To-3-purple?style=for-the-badge&logo=sourceforge&logoColor=white" />
+
+</div>
+
 
 
 
