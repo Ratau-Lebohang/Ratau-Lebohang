@@ -1,42 +1,39 @@
-# 👋 Hey there, I’m Lebohang!
+# 👋 Hi, I’m Lebohang!
 
-> 🧠 Transforming complex data into clear insights — one dataset at a time.  
-> 🌍 Data Analyst by profession, explorer by nature.
+> 📊 Data Analyst passionate about transforming raw data into actionable insights.  
+> 🚀 Always learning, always exploring.
 
-![Party Parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
+![Data Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN0cm5uM3k0eGtqYXZxZG1xbDZlY2xzMHRnZ2VsZzNmeWJ2ZWU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNAsjO55tPbgaor7ma/giphy.gif)
 
 ---
 
-I’m **Lebohang**, a **Data Analyst** passionate about **Business Intelligence**, with a sharp eye for detail and an insatiable curiosity for all things data.  
+## 👨‍💻 About Me
 
-I specialize in turning raw numbers into actionable insights and compelling stories that help businesses make smarter decisions. My toolkit covers:  
+I’m **Lebohang**, a **Data Analyst** with a passion for **Business Intelligence** and **data-driven decision-making**.  
 
-- 🧹 **Data Cleaning**  
+I love diving into messy datasets, cleaning them up, and uncovering stories that help teams make smarter choices.  
+
+**My focus areas include:**
+- 🧹 **Data Cleaning & Preparation**  
 - 🔍 **Exploratory Data Analysis (EDA)**  
-- 📊 **Data Visualization**  
+- 📊 **Interactive Dashboards & Visualization**  
 - 📖 **Data Storytelling**  
 
-I thrive on spotting patterns, uncovering trends, and building dashboards that **clarify**, **illuminate**, and **guide**.
-
-When I’m not wrangling data, you’ll probably find me:  
-- 🥾 Hiking a new trail  
-- 📚 Lost in a great book  
-- 🤓 Learning something new  
+Outside of work, you’ll find me:  
+🥾 hiking new trails,  
+📚 reading good books, or  
+🤓 learning something new.  
 
 ---
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos)
 
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,28 +45,13 @@ When I’m not wrangling data, you’ll probably find me:
 ## 📈 GitHub Stats
 
 <div align="center">
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<!-- Commit Count -->
-<img alt="Commits" src="https://img.shields.io/badge/Commits-143-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=radical&hide_border=true" width="48%" />
 
-<!-- Repository Count -->
-<img alt="Repositories" src="https://img.shields.io/badge/Repositories-12-blue?style=for-the-badge&logo=github&logoColor=white" />
-
-<!-- Stars -->
-<img alt="Stars" src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=starship&logoColor=white" />
-
-<!-- Pull Requests -->
-<img alt="Pull Requests" src="https://img.shields.io/badge/Pull_Requests-0-lightgrey?style=for-the-badge&logo=git-pull-request&logoColor=white" />
-
-<!-- Repos Contributed To -->
-<img alt="Repos Contributed" src="https://img.shields.io/badge/Contributed_To-3-purple?style=for-the-badge&logo=sourceforge&logoColor=white" />
-
----
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratau-Lebohang&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -86,4 +68,4 @@ When I’m not wrangling data, you’ll probably find me:
 
 ---
 
-✨ _Thanks for stopping by! Let’s connect and build something impactful._ 🚀
+✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
