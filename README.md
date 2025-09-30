@@ -54,7 +54,8 @@ When I’m not wrangling data, I’m likely:
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=github-dark&hide_border=true" width="48%" />
 
 <!-- GitHub Activity Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=Ratau-Lebohang&theme=github-dark&hide_border=true" width="95%" />
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ratau-Lebohang&theme=github-dark&hide_border=true)
+
 
 </div>
 
