@@ -55,7 +55,8 @@ Outside of work, you’ll find me:  🥾 hiking new trails, 📚 reading good bo
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratau-Lebohang&theme=dark&hide_border=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ratau-Lebohang&theme=react-dark&area=true)
+[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratau-Lebohang&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 </div>
