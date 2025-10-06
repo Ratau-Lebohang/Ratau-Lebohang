@@ -48,14 +48,11 @@ Outside of work, you’ll find me:  🥾 hiking new trails, 📚 reading good bo
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=radical&hide_border=true" width="50%" />
-### 📊 My GitHub Stats
+<img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=radical&hide_border=true" width="50%" /> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratau-Lebohang&theme=dark&hide_border=true)
 
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratau-Lebohang&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
