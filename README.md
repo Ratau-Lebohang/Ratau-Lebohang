@@ -11,8 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Lebohang**, a **Data Analyst** with a passion for **data-driven decision-making**.  
-
+I’m a **Data Analyst** with a passion for **data-driven decision-making**.  
 I love diving into messy datasets, cleaning them up, and uncovering stories that help teams make smarter choices.  
 
 **My focus areas include:**
