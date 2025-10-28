@@ -1,9 +1,8 @@
-# 👋 Hi, There!
+# Hi, There!  I'm Lebo 👋
 
 > 📊 Data Analyst passionate about transforming raw data into actionable insights.  
 > 🚀 Always learning, always exploring.
 
-# Hi there, I'm Lebo 👋
 
 <!-- Default GIF (Professional + Playful) -->
 
