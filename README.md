@@ -1,27 +1,32 @@
-# Hi, There!  I'm Lebohang 👋
-> 📊 Data Analyst passionate about transforming raw data into actionable insights.  
-> 🚀 Always learning, always exploring.
+# Hi, There! I'm Lebohang 👋
 
+💡 Tech professional passionate about solving problems through data, systems, and smart technology.  
+🚀 Always learning, always exploring.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ratau-Lebohang/Ratau-Lebohang/main/assets/banner.png" alt="Banner" />
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Data Analyst** with a passion for **data-driven decision-making**.  
-I love diving into messy datasets, cleaning them up, and uncovering stories that help teams make smarter choices.  
+I’m an adaptable tech enthusiast with a strong foundation across **data, analytics, and modern IT ecosystems**.  
+My work blends structured thinking, creativity, and technical depth — allowing me to contribute effectively in **data roles, tech operations, analytics, cloud-based work, and general IT environments**.
+
+I enjoy exploring how technology, automation, and data come together to improve decision-making, build efficient systems, and spark innovation.
 
 **My focus areas include:**
-- 🧹 **Data Cleaning & Preparation**  
-- 🔍 **Exploratory Data Analysis (EDA)**  
-- 📊 **Interactive Dashboards & Visualization**  
-- 📖 **Data Storytelling**  
 
-Outside of work, you’ll find me:  🥾 hiking new trails, 📚 reading good books, or 🤓 learning something new.  
+- 🧩 **Data & Tech Problem-Solving**
+- 🧹 **Data Cleaning & Preparation**
+- 🔍 **Exploratory Data Analysis (EDA)**
+- 📊 **Interactive Dashboards & Visualization**
+- 🛠️ **General Tech Support, Systems, and Cloud-Based Tools**
+- 🧠 **Automation & AI-Driven Solutions**
+
+Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good book, or 🤓 exploring new technologies and ideas.
+ 
 
 ---
 
