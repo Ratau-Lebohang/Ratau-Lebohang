@@ -27,7 +27,6 @@ I enjoy exploring how technology, automation, and data come together to improve 
 Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good book, or 🤓 exploring new technologies and ideas.
  
 
----
 
 ## 🛠 Tech Stack
 
@@ -42,7 +41,6 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
----
 
 ## 📈 GitHub Stats
 
@@ -52,7 +50,6 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=radical&hide_border=true" width="50%" /> 
 
 </div>
----
 
 ## 📬 Let’s Connect
 
@@ -62,6 +59,7 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
 <a href="mailto:rataulebohang8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
 
 ---
+
+✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
