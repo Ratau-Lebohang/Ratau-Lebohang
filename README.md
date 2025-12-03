@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I’m an adaptable tech enthusiast with a strong foundation across **data analytics, data Scientist and modern IT ecosystems**.  
+I’m an adaptable tech enthusiast with a strong foundation across **data analytics, data Science and modern IT ecosystems**.  
 My work blends structured thinking, creativity, and technical depth, allowing me to contribute effectively in **data roles, tech operations, analytics, cloud-based work, and general IT environments**.
 
 I enjoy exploring how technology, automation, and data come together to improve decision-making, build efficient systems, and spark innovation.
@@ -62,7 +62,6 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
 <a href="mailto:rataulebohang8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
 
 ---
-
-✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
