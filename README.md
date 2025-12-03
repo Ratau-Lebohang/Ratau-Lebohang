@@ -1,10 +1,13 @@
 # Hi, There!  I'm Lebo 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ratau-Lebohang/Ratau-Lebohang/main/assets/banner.png" alt="Banner" />
+</p>
 
 > 📊 Data Analyst passionate about transforming raw data into actionable insights.  
 > 🚀 Always learning, always exploring.
 
 
-<!-- Default GIF (Professional + Playful) -->
+
 
 
 ---
