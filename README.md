@@ -5,14 +5,13 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ratau-Lebohang/Ratau-Lebohang/main/assets/banner.png" alt="Banner" />
-</p>
-
+</p> 
 ---
 
 ## 👨‍💻 About Me
 
-I’m an adaptable tech enthusiast with a strong foundation across **data, analytics, and modern IT ecosystems**.  
-My work blends structured thinking, creativity, and technical depth — allowing me to contribute effectively in **data roles, tech operations, analytics, cloud-based work, and general IT environments**.
+I’m an adaptable tech enthusiast with a strong foundation across **data analytics, data Scientist and modern IT ecosystems**.  
+My work blends structured thinking, creativity, and technical depth, allowing me to contribute effectively in **data roles, tech operations, analytics, cloud-based work, and general IT environments**.
 
 I enjoy exploring how technology, automation, and data come together to improve decision-making, build efficient systems, and spark innovation.
 
@@ -43,7 +42,6 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
 ---
 
 ## 📈 GitHub Stats
@@ -54,7 +52,6 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=radical&hide_border=true" width="50%" /> 
 
 </div>
-
 ---
 
 ## 📬 Let’s Connect
