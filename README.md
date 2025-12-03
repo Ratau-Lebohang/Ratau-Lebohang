@@ -1,13 +1,11 @@
-# Hi, There!  I'm Lebo 👋
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ratau-Lebohang/Ratau-Lebohang/main/assets/banner.png" alt="Banner" />
-</p>
-
+# Hi, There!  I'm Lebohang 👋
 > 📊 Data Analyst passionate about transforming raw data into actionable insights.  
 > 🚀 Always learning, always exploring.
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ratau-Lebohang/Ratau-Lebohang/main/assets/banner.png" alt="Banner" />
+</p>
 
 
 ---
@@ -49,12 +47,6 @@ Outside of work, you’ll find me:  🥾 hiking new trails, 📚 reading good bo
 
 <!-- GitHub Stats -->
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=radical&hide_border=true" width="50%" /> 
-
-
-
-
-
-
 
 </div>
 
