@@ -45,7 +45,6 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
 ## 📈 GitHub Stats
 
 <div align="center">
-
 <!-- GitHub Stats -->
 <img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=radical&hide_border=true" width="50%" /> 
 
