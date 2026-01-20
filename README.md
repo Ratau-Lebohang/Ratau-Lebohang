@@ -63,7 +63,7 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
 <a href="mailto:rataulebohang8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
+<p align="center"> <!-- DATA --> <img src="https://img.shields.io/badge/SQL-00F0FF?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Python-00FF9C?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117"/> <img src="https://img.shields.io/badge/R-7C83FF?style=for-the-badge&logo=r&logoColor=white&labelColor=0D1117"/> <br/> <!-- ANALYTICS / BI --> <img src="https://img.shields.io/badge/Excel-39FF14?style=for-the-badge&logo=microsoft-excel&logoColor=black&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Power%20BI-FBFF00?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Tableau-FF6EC7?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117"/> <br/> <!-- WEB --> <img src="https://img.shields.io/badge/HTML5-FF5F1F?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/CSS3-1F8BFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/> <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"/> </p>
 ---
 
 ✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
