@@ -26,31 +26,7 @@ I enjoy exploring how technology, automation, and data come together to improve 
 
 Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good book, or 🤓 exploring new technologies and ideas.
  
-## 🛠 Tech Stack
 
-<p align="left">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    alt="GitHub Streak Stats"
-    src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=radical&hide_border=true"
-    width="60%"
-  />
-</p>
 
 
 ## 🛠 Tech Stack
@@ -67,13 +43,17 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## 📈 GitHub Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ratau-Lebohang&show_icons=true&theme=radical&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ratau-Lebohang&theme=radical&hide_border=true"
+    height="160"
+  />
+</p>
 
-<div align="center">
-<!-- GitHub Stats -->
-<img src="https://streak-stats.demolab.com?user=Ratau-Lebohang&theme=radical&hide_border=true" width="50%" /> 
-
-</div>
 
 ## 📬 Let’s Connect
 
