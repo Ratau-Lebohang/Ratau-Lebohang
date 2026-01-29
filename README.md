@@ -1,5 +1,6 @@
 <img src="assets/Banner2.svg" />
-# Hi, There! I'm Lebohang 👋
+
+## Hi, There! I'm Lebohang 👋
 
 💡 Tech professional passionate about solving problems through data, systems, and smart technology.  
 🚀 Always learning, always exploring.
