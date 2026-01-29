@@ -1,4 +1,4 @@
-<img src="assets/Banner2.svg" />
+<img src="assets/Bannertop.svg" />
 
 ## Hi, There! I'm Lebohang 👋
 
@@ -62,5 +62,5 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 ---
-
+<img src="assets/Bannerbottom.svg" />
 ✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
