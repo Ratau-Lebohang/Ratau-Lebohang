@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I’m an adaptable tech enthusiast with a strong foundation across **data analytics, data science and modern IT ecosystems**.  
+I’m an adaptable tech enthusiast with a strong foundation across **data analytics, Business Intelligence, data science and modern IT ecosystems**.  
 My work blends structured thinking, creativity, and technical depth, allowing me to contribute effectively in **data roles, tech operations, analytics, cloud-based work, and general IT environments**.
 
 I enjoy exploring how technology, automation, and data come together to improve decision-making, build efficient systems, and spark innovation.
@@ -18,6 +18,7 @@ I enjoy exploring how technology, automation, and data come together to improve 
 **My focus areas include:**
 
 - 🧩 **Data & Tech Problem-Solving**
+- 📊 **Business Intelligence developer**
 - 🧹 **Data Cleaning & Preparation**
 - 🔍 **Exploratory Data Analysis (EDA)**
 - 📊 **Interactive Dashboards & Visualization**
