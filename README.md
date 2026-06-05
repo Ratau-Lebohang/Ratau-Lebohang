@@ -12,6 +12,9 @@
 </p> 
 
 ## 👨‍💻 About Me
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" alt="Animated Banner" />
+</div>
 
 I’m an adaptable tech enthusiast with a strong foundation across **data analytics, Business Intelligence, data science and modern IT ecosystems**.  
 My work blends structured thinking, creativity, and technical depth, allowing me to contribute effectively in **data roles, tech operations, analytics, cloud-based work, and general IT environments**.
