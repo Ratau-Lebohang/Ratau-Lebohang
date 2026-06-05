@@ -4,10 +4,13 @@
 🚀 Always learning, always exploring.
 
 <p align="center">
+  <img src="https://github.com/Ratau-Lebohang/Ratau-Lebohang/blob/fcc6c25a1eabe953cd9c93c30d8bc40cde3a865a/assets/b8987205-0a7c-4406-ba1c-b720daa5a167.png" alt="Banner" />
+</p> 
+assets/b8987205-0a7c-4406-ba1c-b720daa5a167.png
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Ratau-Lebohang/Ratau-Lebohang/main/assets/banner.png" alt="Banner" />
 </p> 
-
-
 ## 👨‍💻 About Me
 
 I’m an adaptable tech enthusiast with a strong foundation across **data analytics, Business Intelligence, data science and modern IT ecosystems**.  
