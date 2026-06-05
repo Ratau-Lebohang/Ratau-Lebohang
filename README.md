@@ -1,6 +1,6 @@
 # Hi, There! I'm Lebohang 👋
 
-💡 Tech professional passionate about solving problems through data, systems, and smart technology.  
+💡 Tech professional passionate about solving problems through data, systems and smart technology.  
 🚀 Always learning, always exploring.
 
 <p align="center">
@@ -15,7 +15,6 @@ My work blends structured thinking, creativity, and technical depth, allowing me
 I enjoy exploring how technology, automation, and data come together to improve decision-making, build efficient systems, and spark innovation.
 
 **My focus areas include:**
-
 - 🧩 **Data & Tech Problem-Solving**
 - 📊 **Business Intelligence developer**
 - 🧹 **Data Cleaning & Preparation**
@@ -44,12 +43,11 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
 
 
 ## 📬 Let’s Connect
-
 <a href="https://linkedin.com/in/lebohang-r-16067124b" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rataulebohang8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-✨ _**Thanks for visiting! Let’s connect and build something impactful together.**_ 🚀
+## ✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
 <img src="assets/Bannerbottom.svg" />
