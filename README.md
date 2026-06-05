@@ -4,7 +4,7 @@
 🚀 Always learning, always exploring.
 
 <p align="center">
-  <img src="https://github.com/Ratau-Lebohang/Ratau-Lebohang/blob/fcc6c25a1eabe953cd9c93c30d8bc40cde3a865a/assets/b8987205-0a7c-4406-ba1c-b720daa5a167.png" alt="Banner" />
+  <img src="https://github.com/Ratau-Lebohang/Ratau-Lebohang/blob/e1776204ddd09b8f9da436ce2e28c205cba00a55/assets/Banner%20v3.png" alt="Banner" />
 </p> 
 assets/b8987205-0a7c-4406-ba1c-b720daa5a167.png
 
