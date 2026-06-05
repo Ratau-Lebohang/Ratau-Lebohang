@@ -1,5 +1,9 @@
 # Hi, There! I'm Lebohang 👋
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Banner" />
+</div>
+
 💡 Tech professional passionate about solving problems through data, systems and smart technology.  
 🚀 Always learning, always exploring.
 
@@ -32,5 +36,7 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
 <a href="mailto:rataulebohang8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
+
 ## ✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
 <img src="assets/Bannerbottom.svg" />
