@@ -6,11 +6,7 @@
 <p align="center">
   <img src="https://github.com/Ratau-Lebohang/Ratau-Lebohang/blob/dea375593406e7fb11945b5568805a28f843d920/assets/Banner%20v4.png" alt="Banner" />
 </p> 
-assets/b8987205-0a7c-4406-ba1c-b720daa5a167.png
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ratau-Lebohang/Ratau-Lebohang/main/assets/banner.png" alt="Banner" />
-</p> 
 ## 👨‍💻 About Me
 
 I’m an adaptable tech enthusiast with a strong foundation across **data analytics, Business Intelligence, data science and modern IT ecosystems**.  
@@ -55,5 +51,5 @@ Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good b
 <a href="mailto:rataulebohang8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-✨ _Thanks for visiting! Let’s connect and build something impactful together._ 🚀
+✨ _**Thanks for visiting! Let’s connect and build something impactful together.**_ 🚀
 <img src="assets/Bannerbottom.svg" />
