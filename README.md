@@ -30,9 +30,6 @@ I enjoy exploring how technology, automation, and data come together to improve 
 Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good book, or 🤓 exploring new technologies and ideas.
 
 ## 📬 Let’s Connect
-<a href="https://linkedin.com/in/lebohang-r-16067124b" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
 <a href="mailto:rataulebohang8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
