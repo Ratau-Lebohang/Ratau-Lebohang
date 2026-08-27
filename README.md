@@ -4,8 +4,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" alt="Animated Banner" />
 </div>
 
-💡 Tech professional passionate about solving problems through data, systems and smart technology.  
-🚀 Always learning, always exploring.
+Tech professional passionate about solving problems through data, systems and smart technology.  
+Always learning, always exploring.
 
 <p align="center">
   <img src="https://github.com/Ratau-Lebohang/Ratau-Lebohang/blob/dea375593406e7fb11945b5568805a28f843d920/assets/Banner%20v4.png" alt="Banner" />
@@ -26,6 +26,7 @@ I enjoy exploring how technology, automation, and data come together to improve 
 - 📊 **Interactive Dashboards & Visualization**
 - 🛠️ **General Tech Support, Systems, and Cloud-Based Tools**
 - 🧠 **Automation & AI-Driven Solutions**
+- 🐾 **Automation & AI-Driven Solutions**
 
 Outside of work, you’ll find me 🥾 hiking new trails, 📚 enjoying a good book, or 🤓 exploring new technologies and ideas.
 
