@@ -7,10 +7,6 @@
 Tech professional passionate about solving problems through data, systems and smart technology.  
 Always learning, always exploring.
 
-<p align="center">
-  <img src="https://github.com/Ratau-Lebohang/Ratau-Lebohang/blob/dea375593406e7fb11945b5568805a28f843d920/assets/Banner%20v4.png" alt="Banner" />
-</p> 
-
 ## 👨‍💻 About Me
 
 I’m an adaptable tech enthusiast with a strong foundation across **data analytics, Business Intelligence, Data Engineer Data science and modern IT ecosystems**.  
